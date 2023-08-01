@@ -1,0 +1,4 @@
+*.png
+*.json
+datasources/crimes10.csv
+datasources/crimes10.csv.gz
